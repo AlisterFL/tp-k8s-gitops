@@ -1,0 +1,6 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tp-k8s-app
+spec:
+  replicas: 1
