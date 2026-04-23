@@ -10,3 +10,4 @@ resources:
 patches:
   - path: configmap-patch.yaml
   - path: deployment-patch.yaml
+  - path: service-patch.yaml
